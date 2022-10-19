@@ -28,10 +28,10 @@ Link to La Gaceta newspaper: https://lagaceta.com.ec/
 ```mermaid 
   graph TD
     A[Access to the index of the website] --> B[Verify the website is online]
-    C --> D[Extract the links of the notices]
-    D --> E[Save links in a list]
-    E --> F[Loop over the list]
-    F --> G[Verify each notice is online]
+    B --> C[Extract the links of the notices]
+    C --> D[Save links in a list]
+    D --> E[Loop over the list]
+    E --> F[Verify each notice is online]
     G --> H[Extract title and paragraphs]
     H --> K[Create a folder with the date]
     K --> L[Create files for each notices and save like txt]
