@@ -1,0 +1,1 @@
+Links images: $x('//a[@class = "VFACy kGQAp sMi44c d0NI4c lNHeqe WGvvNb"]/@href').map(x=>x.value)
