@@ -32,9 +32,9 @@ Link to La Gaceta newspaper: https://lagaceta.com.ec/
     C --> D[Save links in a list]
     D --> E[Loop over the list]
     E --> F[Verify each notice is online]
-    G --> H[Extract title and paragraphs]
-    H --> K[Create a folder with the date]
-    K --> L[Create files for each notices and save like txt]
+    F --> G[Extract title and paragraphs]
+    G --> H[Create a folder with the date]
+    H --> K[Create files for each notices and save like txt]
 
 
 ```
