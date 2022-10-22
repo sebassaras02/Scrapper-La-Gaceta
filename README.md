@@ -3,6 +3,8 @@ La Gaceta is a newspaper very popular in the Cotopaxi province in the Ecuador Co
 
 Link to La Gaceta newspaper: https://lagaceta.com.ec/
 
+All the scraping process followed the rules of the robots.txt file.
+
 ----
 
 **Table of Contents**
